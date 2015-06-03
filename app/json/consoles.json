@@ -1,0 +1,7 @@
+{"consoles": [
+    {"gameconsole": "Super Nintendo",
+     "emupath": "F:\\EMU\\snes9x-1.53-x64\\snes9x-x64.exe",
+     "rompath": "F:\\ROMS\\SNES Roms\\",
+     "extension": ".smc",
+     "titlesubstring": "Snes9X"}
+]}

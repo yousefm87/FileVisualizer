@@ -1,0 +1,12 @@
+<div id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+        <div ng-repeat="thisConsole in consoles">
+            <div ng-repeat="item in thisConsole.items" button-repeat>
+                <li>
+                    <a class="itembutton" href="#"><span ng-bind="item"></span></a>
+                </li>
+                <li class="divider"></li>
+            </div>
+        </div>
+    </ul>
+</div>

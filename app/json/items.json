@@ -1,0 +1,7 @@
+{"consoles": [
+    {"consolename": "Text Files",
+     "apppath": "notepad.exe",
+     "filespath": "C:\\TextFiles\\",
+     "extension": ".txt",
+     "titlesubstring": "Notepad"}
+]}

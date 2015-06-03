@@ -1,0 +1,25 @@
+{
+    "name": "file-visualizer",
+    "version": "0.0.1",
+    "description": "An Angular node-webkit application to visualize files and open in appropriate app.",
+    "main": "index.html",
+    "private": true,
+    "keywords": [
+        "node",
+        "webkit",
+        "win",
+        "osx"
+    ],
+    "window": {
+        "toolbar": true,
+        "resizable": true,
+        "width": 1000,
+        "height": 600,
+        "min_width": 600,
+        "min_height": 400,
+        "position": "center"
+    },
+    "author": "Yousef Mohammad",
+    "license": "MIT",
+    "chromium-args": "--disable-extensions --disable-plugins --disable-internal-flash --disable-popup-blocking --enable-gamepad --enable-html5-camera --allow-file-access-from-files"
+}

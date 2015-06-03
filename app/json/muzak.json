@@ -1,0 +1,28 @@
+{"albums": [
+    {"artist": "Radiohead",
+     "album": "In Rainbows",
+     "albumpath": "F:\\Music\\Radiohead\\In Rainbows\\",
+     "extension": "mp3"
+    },
+    {"artist": "2Pac",
+     "album": "All Eyez On Me",
+     "albumpath": "F:\\Music\\2Pac\\All Eyez On Me\\",
+     "extension": "mp3"
+    }, 
+    {"artist": "Mahavishnu Orchestra",
+     "album": "Inner Worlds",
+     "albumpath": "F:\\Music\\Mahavishnu Orchestra\\Inner Worlds\\",
+     "extension": "mp3"
+    }, 
+    {"artist": "Tokyo Ska Paradise Orchestra",
+     "album": "Walkin'",
+     "albumpath": "F:\\Music\\Tokyo Ska Paradise Orchestra\\Walkin'\\",
+     "extension": "mp3"
+    }, 
+    {"artist": "Stevie Wonder",
+     "album": "Innervisions",
+     "albumpath": "F:\\Music\\Stevie Wonder\\Innervisions\\",
+     "extension": "mp3"
+    }
+    
+]}
